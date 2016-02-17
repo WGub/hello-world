@@ -7,3 +7,4 @@ mod2
 test
 test
 
+new mod
